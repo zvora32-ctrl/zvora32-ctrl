@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m passionate about **data science**, **AI/ML**
 
 ## 🔗 About Me
 
-- 🎓 Sophomore Pre-Applied Data Analysis Student at **University of Connecticut**
+- 🎓 Junior Pre-Applied Data Analysis Student at **University of Connecticut**
 - 💡 Looking to learn about solving complex problems with **AI/ML**, **data analysis**, and potential careers in tech
 - 🤝 Dedicated to leading teams to achieving impactful goals
 

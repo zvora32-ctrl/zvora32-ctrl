@@ -1,9 +1,4 @@
-
-Welcome to my GitHub profile! I’m passionate about data science, AI/ML, and responsible computing.
-From building machine learning pipelines to leading teams, I aim to make an impact through innovative, data-driven solutions.
-Feel free to explore my repositories and connect with me! LinkedIn | Email
-
-About Me
+**About Me**
 
 # Hi, I'm Zeba! 👋
 <img src="photo1.jpg" alt="Zeba Vora" width="200" align="left" style="margin-right: 200px;">

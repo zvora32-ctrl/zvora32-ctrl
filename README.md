@@ -39,7 +39,4 @@ Welcome to my GitHub profile! I’m passionate about **data science**, **AI/ML**
 ---
 
 ## 💻 Featured Repositories
-### 1. [KPMG Machine Learning Challenge Project (Break Through Tech AI Program)](https://github.com/KPMG1A/AI-Studio-Project) 
-Check out my team's project repository for the real-world ML project we worked on for KPMG for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio!
-- Analyzed 40,000+ zip codes and 3,000+ donations for C5LA using CRISP-DM framework and Agile methodology
-- Achieved 88% accuracy with Random Forest model, selected features with RFE, optimized parameters with RandomizedSearchCV , applied preprocessing and trend analysis using Pandas, 
+## TBT.

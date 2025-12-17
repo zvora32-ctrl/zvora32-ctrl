@@ -3,7 +3,7 @@
 # Hi, I'm Zeba! 👋
 
 
-Welcome to my GitHub profile! I’m passionate about **data science**, **AI/ML**, and **responsible computing**. From building machine learning pipelines to leading teams, I aim to make an impact through innovative, data-driven solutions. Feel free to explore my repositories and connect with me! 💼 [LinkedIn](linkedin.com/in/zeba-vora-529068210) ✉️ [Email](mailto:zvora32@gmail.com)
+Welcome to my GitHub profile! I’m passionate about **data science**, **AI/ML**, and **responsible computing**. From building machine learning pipelines to leading teams, I aim to make an impact through innovative, data-driven solutions. Feel free to explore my repositories and connect with me! 💼 [LinkedIn](https://www.linkedin.com/in/zeba-vora-529068210/) ✉️ [Email](mailto:zvora32@gmail.com)
 
 ---
 

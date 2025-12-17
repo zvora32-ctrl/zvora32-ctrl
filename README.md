@@ -1,4 +1,5 @@
 
+<img width="1296" height="1728" alt="image" src="https://github.com/user-attachments/assets/6ee79208-6c15-4876-8a58-7f0187c739e9" />
 ## Hi, I'm Zeba! 👋
 
 Welcome to my GitHub profile! I’m passionate about **data science, AI/ML, and responsible computing**.  

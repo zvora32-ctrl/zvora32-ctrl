@@ -34,4 +34,7 @@ Welcome to my GitHub profile! I’m passionate about **data science**, **AI/ML**
 ---
 
 ## 💻 Featured Repositories
-## TBT.
+## 💻 Featured Repositories
+### 1. [BudgetBuddy App)](https://github.com/zvora32-ctrl/Project2.git) 
+
+

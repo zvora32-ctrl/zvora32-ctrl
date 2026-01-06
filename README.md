@@ -50,6 +50,7 @@ Welcome to my GitHub profile! I’m passionate about **data science**, **AI/ML**
 
 ### 3. [Night Sky Tours App]()
 ### 4. [Seasons Animation App](https://github.com/zvora32-ctrl/Seasons-Animation-App)
+### 4. [Paris Cafe App](https://github.com/zvora32-ctrl/Paris-Cafe-App)
 
 
 

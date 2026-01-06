@@ -48,7 +48,8 @@ Welcome to my GitHub profile! I’m passionate about **data science**, **AI/ML**
 
 ### 2. [Loan Calcultor](https://github.com/zvora32-ctrl/LoanCalculator) 
 
-### 3. [Night Sky Tours App]() 
+### 3. [Night Sky Tours App]()
+### 4. [Seasons Animation App](https://github.com/zvora32-ctrl/Seasons-Animation-App)
 
 
 

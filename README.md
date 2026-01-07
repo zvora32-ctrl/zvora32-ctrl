@@ -34,6 +34,7 @@ Welcome to my GitHub profile! I’m passionate about **data science**, **AI/ML**
 ---
 
 ## 💻 Featured Repositories
+
 ### 1. [💰 BudgetBuddy App](https://github.com/zvora32-ctrl/Project2.git) 
 
 -Collaborated in a 4-person team to design and develop BudgetBuddy, a Python-based GUI application that calculates expenses and savings to promote financial literacy for early-career users.

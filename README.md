@@ -42,7 +42,10 @@ Welcome to my GitHub profile! I’m passionate about **data science**, **AI/ML**
 -Introduced creative design enhancements beyond baseline specifications, improving usability and overall application clarity.
 -Achieved 100% project completion, earning full credit on a competitive evaluation and additional points for creativity and strategic execution.
 
-### 2. [Loan Calcultor](https://github.com/zvora32-ctrl/LoanCalculator) 
+### 2. [📲 Loan Calcultor(https://github.com/zvora32-ctrl/LoanCalculator) 
+- Developed an Android loan calculator to help users estimate monthly payments and total loan cost, supporting informed financial decisions.
+- Enabled instant recalculation based on user inputs, reducing manual effort and improving clarity.
+- Designed a clean, intuitive interface to make financial concepts more accessible to early-career users.
 
 ### 3. [🌌 Night Sky Tours App]()
 
